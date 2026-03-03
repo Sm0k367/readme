@@ -1,4 +1,6 @@
+<p align="center">
 🚀 EPIC TECH AI FOR YOUR DEV, AI & CREATIVE PORTFOLIO
+</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" width="210" alt="Epic Tech AI Backpack" style="border-radius:49px; box-shadow:0 0 180px #FA28FFCC,0 0 80px #00F6FFBB,0 0 16px #FFD900;">
 </p>

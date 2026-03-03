@@ -90,7 +90,7 @@
 - X (Twitter): [@Sm0ken420](https://x.com/Sm0ken420)
 - GitHub: [Sm0k367](https://github.com/Sm0k367)
 - Suno: [DJ Smoke Stream](https://suno.com/@smokestream)
-- Email/DM: *[epichtechai@gmail.com]*
+- Email/DM: *epichtechai@gmail.com*
 
 ---
 
